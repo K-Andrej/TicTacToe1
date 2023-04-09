@@ -1,0 +1,49 @@
+.square{
+    height: 50px;
+    width: 50px;
+    font-size: 2em;
+    border-radius: 15px;
+    vertical-align: top;
+    margin: 5px;
+    font-style: italic;
+}
+
+.resetANDgoback{
+    width: 10em;
+    height: 2em;
+    font-weight: 800;
+    font-size: 1em;
+    font-style: italic;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.gameMode{
+    border-radius: 20px;
+    font-weight: bold;
+    width: 100px;
+    height: auto;
+    padding: 10px;
+    margin: 10px 0px 0px 8px;
+    vertical-align: top;
+    background-color: rgb(255, 197, 37);
+}
+
+.app{
+    text-align: center;
+    margin-top: 15%;
+}
+
+.text_select{
+    background-color: rgb(26, 201, 93);
+    width: 20%;
+    padding: 3px 10px;
+    margin-left: 39vw;
+    border-radius: 25px;
+    font-style:oblique;
+}
+
+.win_text {
+    color: white;
+}
+
